@@ -1,22 +1,18 @@
-# Selam, ben Mert! ✌️
+# Selam, ben Mert
 
-Yaklaşık 5-6 senedir (5. sınıftan beri) klavye başındayım. Kod yazmak benim için bir zorunluluk değil, bir hobi. İbn-i Sina MTAL 9/A sınıfında okuyorum ama vaktimin çoğunu oyun modları, web siteleri ve yeni diller öğrenerek geçiriyorum.
+5. sınıftan beri yazılım dünyasındayım. Kod yazmak benim için sadece bir uğraş değil, bir hobi. İbn-i Sina MTAL 9/A sınıfındayım ve vaktimin çoğunu oyun mekaniklerini kurcalayarak veya yeni dillerde projeler geliştirerek geçiriyorum.
 
 ### 🕹️ Neler Yapıyorum?
-- **Oyun Modlama:** C# ile haşır neşirim. Oyunların dosyalarını kurcalamayı, mekanikleri değiştirmeyi ve kendi modlarımı yazmayı seviyorum.
-- **Web:** Sadece site yapmıyorum, mantığını anlamaya çalışıyorum.
-- **Yazılım:** 5. sınıftan beri Python'dan C#'a kadar birçok dille uğraştım. Yeni şeyler denemekten korkmam.
+- **Oyun Modlama:** C# üzerinde uzmanlaşıyorum. Oyunların derinliklerine inmeyi ve kendi sistemlerimi kurmayı seviyorum.
+- **Full-Stack Geliştirme:** Web tarafında hem tasarım hem de mantık kısmında kendimi geliştiriyorum.
+- **Algoritma Tasarımı:** 5. sınıftan bu yana edindiğim tecrübeyle karmaşık problemleri koda dökmekten keyif alıyorum.
 
-### 🛠️ Çantamda Neler Var?
-- **Diller:** C#, Python, HTML/CSS, JS.
-- **Toollar:** VS Code, Visual Studio, Git, SMAPI, Cheat Engine.
+### 🛠️ Bildiklerim
+- **Diller:** C#, Python, HTML/CSS, JavaScript.
+- **Araçlar:** Visual Studio, Git, SMAPI, Cheat Engine.
 
 ---
 
 ### 📊 İstatistiklerim
-
-### 📊 İstatistiklerim
-
-![Nyxstorm GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyxstorm&show_icons=true&theme=dark)
-
-![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=nyxstorm&layout=compact&theme=dark)
+![nyxstorm GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyxstorm&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyxstorm&layout=compact&theme=dark)
