@@ -12,7 +12,3 @@
 - **Araçlar:** Visual Studio, Git, SMAPI, Cheat Engine.
 
 ---
-
-### 📊 İstatistiklerim
-![nyxstorm GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyxstorm&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyxstorm&layout=compact&theme=dark)
