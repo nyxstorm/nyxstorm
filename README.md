@@ -15,6 +15,8 @@ Yaklaşık 5-6 senedir (5. sınıftan beri) klavye başındayım. Kod yazmak ben
 
 ### 📊 İstatistiklerim
 
-![nyxstorm GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyxstorm&show_icons=true&theme=dark&hide_border=true&count_private=true)
+### 📊 İstatistiklerim
 
-![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=nyxstorm&layout=compact&theme=dark&hide_border=true)
+![Nyxstorm GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyxstorm&show_icons=true&theme=dark)
+
+![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=nyxstorm&layout=compact&theme=dark)
