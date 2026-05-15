@@ -39,3 +39,6 @@
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nyxstorm&theme=dark" />
 </p>
+
+
+![snake gif](https://github.com/nyxstorm/nyxstorm/blob/output/github-contribution-grid-snake.gif)
