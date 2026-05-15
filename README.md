@@ -32,10 +32,10 @@
 <hr />
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyxstorm&show_icons=true&locale=tr&layout=compact" alt="nyxstorm" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nyxstorm&show_icons=true&locale=tr" alt="nyxstorm" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyxstorm&show_icons=true&locale=tr&layout=compact&theme=dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nyxstorm&show_icons=true&locale=tr&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxstorm" alt="nyxstorm" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nyxstorm&theme=dark" />
 </p>
